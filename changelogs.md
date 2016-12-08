@@ -1,5 +1,9 @@
 # Changelogs
 
+## 1.37.25
+
+- Centered device selection menu in navbar
+
 ## 1.37.24
 
 - Added ping enpoint and fixed api url
