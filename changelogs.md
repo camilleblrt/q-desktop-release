@@ -11,11 +11,6 @@
 
 ## 1.37.26
 
-- Reduced window auto updater check interval to 5 minutes
-- Added log on q cloud ping request
-
-## 1.37.26
-
 - Fixed websocket reconnection issue
 
 ## 1.37.25
