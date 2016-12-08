@@ -1,5 +1,14 @@
 # Changelogs
 
+## 1.37.28
+
+- Added signal center in navbar menu
+
+## 1.37.27
+
+- Reduced window auto updater check interval to 5 minutes
+- Added log on q cloud ping request
+
 ## 1.37.26
 
 - Reduced window auto updater check interval to 5 minutes
