@@ -1,5 +1,19 @@
 # Changelogs
 
+## 1.37.32
+
+- Changed profile name position
+- Fixed bug where undefined key configuration changes weren't saved after edition
+
+## 1.37.31
+
+- Layout fix
+- Fixed right pipe position
+
+## 1.37.30
+
+- Fixed auto-updater
+
 ## 1.37.29
 
 - Fixed WebSocket synchronization
