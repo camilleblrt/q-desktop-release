@@ -1,5 +1,12 @@
 # Changelogs
 
+## 1.37.33
+
+- Removed magic selector
+- Added debug log level
+- Removed light indicators from simulator
+- Added release version name (elephant)
+
 ## 1.37.32
 
 - Changed profile name position
