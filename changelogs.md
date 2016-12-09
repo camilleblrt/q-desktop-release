@@ -1,5 +1,9 @@
 # Changelogs
 
+## 1.37.29
+
+- Fixed WebSocket synchronization
+
 ## 1.37.28
 
 - Added signal center in navbar menu
