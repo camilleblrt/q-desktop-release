@@ -1,14 +1,6 @@
----
-Order: 25
-TOCTitle: August 2017
-PageTitle: Visual Studio Code August 2017
-MetaDescription: See what is new in the Visual Studio Code August 2017 Release (1.16)
-MetaSocialImage: 1_16_release-highlights.png
----
 # August 2017 (version 1.16)
-
+---
 **Update 1.16.1**: The update addresses these [issues](https://github.com/Microsoft/vscode/milestone/53?closed=1).
-
 ---
 
 Welcome to the August 2017 release of Visual Studio Code. There are a number of significant updates in this version that we hope you will like, some of the key highlights include:
