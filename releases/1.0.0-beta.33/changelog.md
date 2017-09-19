@@ -1,6 +1,8 @@
 # August 2017 (version 1.16)
 ---
+
 **Update 1.16.1**: The update addresses these [issues](https://github.com/Microsoft/vscode/milestone/53?closed=1).
+
 ---
 
 Welcome to the August 2017 release of Visual Studio Code. There are a number of significant updates in this version that we hope you will like, some of the key highlights include:
