@@ -43,13 +43,13 @@ The release notes are arranged in the following sections related to VS Code focu
 
 You can now drag files from the Search results and Problems panel over the editor area to control where these should open. The File Explorer always supported this and we have now expanded that feature to other regions of the UI.
 
-![Drag and drop in search results](images/1_16/search-dnd.gif)
+![Drag and drop in search results](https://raw.githubusercontent.com/Microsoft/vscode-docs/master/release-notes/images/1_16/search-dnd.gif)
 
 ### Open a folder via drag and drop
 
 VS Code has always supported dragging a folder from outside VS Code into it to open the folder. VS Code stills support this, but the visual feedback is changed a little bit. Previously you could drop the folder anywhere in VS Code to open it. With this release, you need to drop the folder over the editor area to open it. This change is due to both a technical reason (an Electron update) as well as an explicit decision to make the multi-root experience better. If you are using VS Code Insiders with multi-root support, you will be happy to hear that you can now drop a folder into the File Explorer to add it to the workspace.
 
-![Open folder via drag and drop](images/1_16/folder-drop.gif)
+![Open folder via drag and drop](https://raw.githubusercontent.com/Microsoft/vscode-docs/master/release-notes/images/1_16/folder-drop.gif)
 
 ### Extension Host
 
@@ -57,7 +57,7 @@ VS Code uses a multi-process architecture, where extensions are executed in a se
 
 In the following short video, the extension host process is terminated. When the extension host terminates, basic editing still works, word completions are presented, and once the extension host is restarted, real TypeScript powered completions return:
 
-![Extension Host Restart](images/1_16/exthost-restart.gif)
+![Extension Host Restart](https://raw.githubusercontent.com/Microsoft/vscode-docs/master/release-notes/images/1_16/exthost-restart.gif)
 
 ### Theming improvements
 
